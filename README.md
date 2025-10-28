@@ -1,5 +1,5 @@
 # XAML to SVG transformer
-This repository contains 21 simple geometric figures converted from XAML to SVG (originally created for psychophysiolotgy experiment purposes).
+This repository contains 21 simple geometric figures converted from XAML to SVG (originally created for psychophysiology experiment purposes).
 
 All SVGs:
 - use a **400×400** `viewBox` (the thin stroked cross is upscaled to 400×400 too, but it's optional),
